@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "uttam ganesh archana vinod pratik vishwas shivaraj vishwa";
 ?>
 
 </body>
