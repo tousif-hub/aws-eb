@@ -1,5 +1,5 @@
 <?php
-$t = "vishnu,srilatha,shambavi,nishanth,shoum,sunil";
+$t = "manju,damo,arun,ajith,sushma";
 
 if ($t = "vishnu,srilatha,shambavi,nishanth,shoum") {
     echo "Have a good day!";
